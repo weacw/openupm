@@ -1,0 +1,21 @@
+name: com.phantoms.webrequestextension
+displayName: ARMOD WebRequest Extension
+description: >-
+  WebRequest Extension is used to extend Unity'sbuilt-in WebRequest to support
+  asynchronous requests (Async/Await/progress).
+repoUrl: 'https://github.com/Phantomxm2021/com.phantoms.webrequestextension'
+parentRepoUrl: null
+licenseSpdxId: Apache-2.0
+licenseName: Apache License 2.0
+topics:
+  - utilities
+hunter: Phantomxm2021
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: null
+readme: 'main:README.md'
+readme_zhCN: ''
+displayName_zhCN: ''
+description_zhCN: ''
+createdAt: 1619255727355
